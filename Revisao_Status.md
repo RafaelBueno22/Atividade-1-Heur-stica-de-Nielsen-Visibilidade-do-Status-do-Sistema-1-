@@ -108,4 +108,4 @@ O objetivo não é apenas identificar falhas, mas também **propor soluções qu
 ## 10. Entrega:
 
 1. Rafael Correa Bueno
-2. 
+2. https://github.com/RafaelBueno22/Atividade-1-Heur-stica-de-Nielsen-Visibilidade-do-Status-do-Sistema-1-.git
