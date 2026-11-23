@@ -105,7 +105,3 @@ O site possui problemas intencionais de usabilidade. Vocês deverão descobri-lo
 
 O objetivo não é apenas identificar falhas, mas também **propor soluções que tornem a experiência do usuário mais clara, intuitiva e confiável.**
 
-## 10. Entrega:
-
-1. Rafael Correa Bueno
-2. https://github.com/RafaelBueno22/Atividade-1-Heur-stica-de-Nielsen-Visibilidade-do-Status-do-Sistema-1-.git
